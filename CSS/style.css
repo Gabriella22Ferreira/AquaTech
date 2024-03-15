@@ -1,0 +1,14 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+#nav-bar
+{
+    display: flex;
+    border-bottom: 3px solid #32b9cd;
+}
+
